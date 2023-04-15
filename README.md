@@ -31,6 +31,13 @@ BlockForest has a purpose-driven explorer built on the TRON network with a missi
 
 BlockForest offers personalized profiles to every user on the TRON network. By simply accessing their profile on BlockForest, users can check their transaction history and the carbon credit quota assigned to them. By connecting their TronLink wallet to BlockForest, users can easily purchase carbon credits for their transactions with just a few clicks. The transactions are automatically recorded in the BlockForest database, and the funds are collected in the tree block at that moment. This makes it easy for users to contribute to tree plantations and track their carbon credit purchasing status. As a result, BlockForest is a comprehensive one-stop solution for carbon credit management, as it integrates the carbon credit marketplace directly into each user's profile.
 
+### Built-In Tree Metadata Tracker  
+
+![Banner 4.png](https://cdn.dorahacks.io/static/files/1876c00518fb90666502b8e4db7aa71e.png)
+
+Once a tree block has collected enough carbon credits and has closed, the funds are automatically transferred to the BlockForest Fund Pool. The BlockForest team will then use the funds to plant a real-life tree for that specific tree block. After the tree has been planted, the BlockForest team uploads the metadata, including the tree's ID, location, species, partner, photos, and more, to inform users about the tree they contributed to. The tracker allows users to easily access the metadata of their trees, creating a sense of satisfaction and pride and helping users visualize the impact of their contributions.
+
+
 ### The Key Features Overview | How powerful is BlockForest on Milestone One?
 1. The BlockForest fund pool leverages a tree blockchain mechanism specially designed to collect carbon credits and streamline the automated process of tree plantation.
 
